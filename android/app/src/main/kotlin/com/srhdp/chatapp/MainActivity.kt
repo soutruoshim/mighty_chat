@@ -1,4 +1,4 @@
-package com.mighty.chat
+package com.srhdp.chatapp
 
 import io.flutter.embedding.android.FlutterActivity
 

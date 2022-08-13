@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "983996196721",
-    "project_id": "mighty-chat-app",
-    "storage_bucket": "mighty-chat-app.appspot.com"
+    "project_number": "24197984878",
+    "project_id": "chat-srhdp",
+    "storage_bucket": "chat-srhdp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:983996196721:android:8214e128309de3b14ef8d0",
+        "mobilesdk_app_id": "1:24197984878:android:f15d78bb6f2c09a9bfac7f",
         "android_client_info": {
-          "package_name": "com.mighty.chat"
+          "package_name": "com.srhdp.chatapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "983996196721-vqtkvlhffra0ag1pugtcoohdohddu27k.apps.googleusercontent.com",
+          "client_id": "24197984878-kqa2sjfjgk5vasksgivcnb23gtr9bgh3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCN1uTPSn9HFEqc0rPr3eGQUFwachaU1pI"
+          "current_key": "AIzaSyDljL1XaEf92lFprBKtlqKXdPcTEoqP50w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "983996196721-vqtkvlhffra0ag1pugtcoohdohddu27k.apps.googleusercontent.com",
+              "client_id": "24197984878-kqa2sjfjgk5vasksgivcnb23gtr9bgh3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
